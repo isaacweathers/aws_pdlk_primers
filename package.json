@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@aws/pdk": "^0.23.48"
+  }
+}
